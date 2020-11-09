@@ -1,10 +1,9 @@
 # TWlinuxinfo
 Linux System Information Gathering and Report
 
-《Coming Soon!!》
+#《Coming Soon!!》
 
-## Effective Date
-December 31, 2020
+## Effective Date -> December 31, 2020
 
 -----------------------------------------
 ##### AUTHOR / REPORTING BUGS
