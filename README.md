@@ -2,7 +2,7 @@
 Linux System Information Gathering and Report
 
 # Status
-![](https://github.com/TonyWx/TWlinuxinfo/blob/master/images/Progress.gif)
+![](https://github.com/TonyWx/TWlinuxinfo/projects/1#card-49441664)
 ## Effective Date -> December 31, 2020
 
 ## DESCRIPTION
